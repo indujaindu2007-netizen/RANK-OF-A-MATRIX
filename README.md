@@ -32,7 +32,10 @@ print(rank)
 ```
 ## Output:
 
-<img width="1027" height="668" alt="image" src="https://github.com/user-attachments/assets/4212662a-1acf-4f74-8070-82707e9f1e63" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15a00398-ea9c-4fdd-83f0-c9d0b5e8dca2" />
+[exp02.pdf](https://github.com/user-attachments/files/27391824/exp02.pdf)
+
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
