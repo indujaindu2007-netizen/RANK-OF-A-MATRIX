@@ -33,7 +33,8 @@ print(rank)
 ## Output:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15a00398-ea9c-4fdd-83f0-c9d0b5e8dca2" />
-[out2.pdf](https://github.com/user-attachments/files/27391933/out2.pdf)
+[out2.pdf](https://github.com/user-attachments/files/27391978/out2.pdf)
+
   
 
 
