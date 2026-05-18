@@ -34,7 +34,7 @@ print(rank)
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/15a00398-ea9c-4fdd-83f0-c9d0b5e8dca2" />
 
-https://github.com/user-attachments/files/27392048/out2.pdf
+[text](exp2.rev.pdf)
   
 
 
